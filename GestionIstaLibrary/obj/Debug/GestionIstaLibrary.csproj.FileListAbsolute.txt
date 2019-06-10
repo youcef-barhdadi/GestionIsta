@@ -1,0 +1,5 @@
+C:\Users\ycf\Desktop\New folder\GestionIsta\GestionIstaLibrary\bin\Debug\GestionIstaLibrary.dll
+C:\Users\ycf\Desktop\New folder\GestionIsta\GestionIstaLibrary\bin\Debug\GestionIstaLibrary.pdb
+C:\Users\ycf\Desktop\New folder\GestionIsta\GestionIstaLibrary\obj\Debug\GestionIstaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ycf\Desktop\New folder\GestionIsta\GestionIstaLibrary\obj\Debug\GestionIstaLibrary.dll
+C:\Users\ycf\Desktop\New folder\GestionIsta\GestionIstaLibrary\obj\Debug\GestionIstaLibrary.pdb
